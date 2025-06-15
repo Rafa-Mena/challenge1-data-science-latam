@@ -1,3 +1,5 @@
+![Análisis de Tiendas](banner.png)
+
 # 📊 Análisis de Tiendas - Reto de Ciencia de Datos
 
 Este proyecto tiene como objetivo ayudar al Sr. João a tomar una decisión informada sobre cuál de las cuatro tiendas de su cadena **Alura Store** debería vender o cerrar, con base en el análisis de datos reales de ventas, calificaciones, envíos y productos.
